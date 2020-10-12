@@ -1,2 +1,2 @@
 # zxuerdas.github.io
-Design web foe everyone
+Design web for everyone
